@@ -5,9 +5,16 @@
     box-sizing: border-box;
 }
 
+/* Body background color */
+body {
+    background-color: #333333; /* Dark grey background */
+    color: #007bff; /* Bright blue text */
+    font-family: Arial, sans-serif; /* Example font family */
+}
+
 /* Style header */
 header {
-    background-color: #333;
+    background-color: #333333;
     color: #fff;
     padding: 20px;
 }
@@ -19,7 +26,7 @@ main {
 
 /* Style footer */
 footer {
-    background-color: #333;
+    background-color: #333333;
     color: #fff;
     padding: 20px;
 }
